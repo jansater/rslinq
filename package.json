@@ -1,7 +1,7 @@
 {
-    "server": {
+    "rslinq": {
         "dependencies": {
-            "jquery": "scripts/vendor/jquery/jquery"
+            
         }
     }
 }

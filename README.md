@@ -1,4 +1,4 @@
-server.js
+rslinq.js
 =========
 
-ajax wrapper http client
+Simple linq library for js
